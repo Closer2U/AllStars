@@ -19,10 +19,10 @@
 - [Elm (1)](#elm)
 - [Emacs Lisp (1)](#emacs-lisp)
 - [GDScript (1)](#gdscript)
-- [Go (54)](#go)
+- [Go (53)](#go)
 - [Groovy (1)](#groovy)
 - [HCL (1)](#hcl)
-- [HTML (85)](#html)
+- [HTML (86)](#html)
 - [Handlebars (1)](#handlebars)
 - [Haskell (3)](#haskell)
 - [Java (44)](#java)
@@ -95,10 +95,10 @@
 | 4 |  [PwaToTwa](https://github.com/RikudouSage/PwaToTwa) | Convert your PWA to an Android application using Trusted Web Activities (TWA) | RikudouSage | 8 |
 | 5 |  [FlatSiteBuilder](https://github.com/Artanidos/FlatSiteBuilder) | CMS to be used for github pages | Artanidos | 29 |
 | 6 |  [kakoune](https://github.com/mawww/kakoune) | mawww&#39;s experiment for a better code editor | mawww | 6287 |
-| 7 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 85881 |
+| 7 |  [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | electron | 85882 |
 | 8 |  [vnote](https://github.com/tamlok/vnote) | A note-taking application that knows programmers and Markdown better. | tamlok | 7376 |
 | 9 |  [SpontaneousPresentation](https://github.com/jasonrohrer/SpontaneousPresentation) | A tool for giving on-the-spot non-linear presentations with visuals | jasonrohrer | 7 |
-| 10 |  [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source | DrKLO | 14810 |
+| 10 |  [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source | DrKLO | 14811 |
 | 11 |  [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) | Unofficial, FOSS-friendly fork of the original Telegram client for Android | Telegram-FOSS-Team | 883 |
 
 **[⬆ Back to Index](#-contents)**
@@ -156,7 +156,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [html5-boilerplate-jade-less-livereload.docpad](https://github.com/jh3y/html5-boilerplate-jade-less-livereload.docpad) | A skeleton for docpad using html5 boilerplate, less and jade. | jh3y | 1 |
 | 2 |  [marqdown](https://github.com/marqdown/marqdown) | a portable markdown editor with an on-the-fly preview | marqdown | 6 |
-| 3 |  [trix](https://github.com/basecamp/trix) | A rich text editor for everyday writing | basecamp | 15488 |
+| 3 |  [trix](https://github.com/basecamp/trix) | A rich text editor for everyday writing | basecamp | 15489 |
 | 4 |  [docpad](https://github.com/docpad/docpad) | Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before. | docpad | 3016 |
 | 5 |  [butterfly](https://github.com/paradoxxxzero/butterfly) | A web terminal based on websocket and tornado | paradoxxxzero | 2757 |
 
@@ -233,51 +233,50 @@
 | 7 |  [variant](https://github.com/mumoshu/variant) | Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow. | mumoshu | 197 |
 | 8 |  [devdash](https://github.com/Phantas0s/devdash) | :bento: Highly Configurable Terminal Dashboard for Developers | Phantas0s | 876 |
 | 9 |  [termdash](https://github.com/mum4k/termdash) | Terminal based dashboard. | mum4k | 1300 |
-| 10 |  [daptin](https://github.com/daptin/daptin) | Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS | daptin | 1045 |
-| 11 |  [dzone-refcardz-downloader](https://github.com/luckylittle/dzone-refcardz-downloader) | Downloads all refcardz from https://dzone.com/refcardz | luckylittle | 8 |
-| 12 |  [mdr](https://github.com/MichaelMure/mdr) | MarkDown Renderer for the terminal | MichaelMure | 280 |
-| 13 |  [go-term-markdown](https://github.com/MichaelMure/go-term-markdown) | A markdown renderer package for the terminal | MichaelMure | 185 |
-| 14 |  [rewind](https://github.com/xtaci/rewind) | Text-Based UI for Kafka | xtaci | 20 |
-| 15 |  [self-hosted](https://github.com/gitpod-io/self-hosted) | Gitpod Self-Hosted | gitpod-io | 160 |
-| 16 |  [lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | jesseduffield | 16217 |
-| 17 |  [ghorg](https://github.com/gabrie30/ghorg) | Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, and Bitbucket | gabrie30 | 248 |
-| 18 |  [flynn](https://github.com/flynn/flynn) | A next generation open source platform as a service (PaaS) | flynn | 7753 |
-| 19 |  [Timimi](https://github.com/ibnishak/Timimi) | Webextension to save Tiddlywiki | ibnishak | 103 |
-| 20 |  [NotiGoCMS](https://github.com/lvntbkdmr/NotiGoCMS) | A CMS for Hugo static website framework based on Notion.so | lvntbkdmr | 4 |
-| 21 |  [makesite](https://github.com/Make-School-Labs/makesite) | Create your own custom Static Site Generator (Jekyll, Hugo) by fulfilling the requirements in this repo! | Make-School-Labs | 1 |
-| 22 |  [til](https://github.com/senorprogrammer/til) | 🍊 A super-simple static site generator for capturing quick notes | senorprogrammer | 9 |
-| 23 |  [feedloggr](https://github.com/lmas/feedloggr) | Collect news from your favorite RSS/Atom feeds and generate simple and static web pages to browse the news in. | lmas | 3 |
-| 24 |  [rook](https://github.com/rook/rook) | Storage Orchestration for Kubernetes | rook | 7640 |
-| 25 |  [moby](https://github.com/moby/moby) | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | moby | 58194 |
-| 26 |  [buildx](https://github.com/docker/buildx) | Docker CLI plugin for extended build capabilities with BuildKit | docker | 732 |
-| 27 |  [cloud-torrent](https://github.com/jpillora/cloud-torrent) | ☁️ Cloud Torrent: a self-hosted remote torrent client | jpillora | 4543 |
-| 28 |  [fortio](https://github.com/fortio/fortio) | Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats. | fortio | 1460 |
-| 29 |  [os](https://github.com/rancher/os) | Tiny Linux distro that runs the entire OS as Docker containers | rancher | 5997 |
-| 30 |  [viewscreen](https://github.com/viewscreen/viewscreen) | Viewscreen - a personal video streaming server | viewscreen | 214 |
-| 31 |  [weave](https://github.com/weaveworks/weave) | Simple, resilient multi-host containers networking and more. | weaveworks | 5932 |
-| 32 |  [k3sup](https://github.com/alexellis/k3sup) | bootstrap Kubernetes with k3s over SSH &amp;lt; 1 min 🚀 | alexellis | 2369 |
-| 33 |  [docker-slim](https://github.com/docker-slim/docker-slim) | DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) | docker-slim | 9152 |
-| 34 |  [ran](https://github.com/m3ng9i/ran) | a simple static web server written in Go | m3ng9i | 633 |
-| 35 |  [adhoc-httpd](https://github.com/tv42/adhoc-httpd) | Quick &amp; dirty HTTP static file server | tv42 | 12 |
-| 36 |  [go-fileserver](https://github.com/prdpx7/go-fileserver) | A simple HTTP Server to share files over WiFi via Qr Code | prdpx7 | 48 |
-| 37 |  [local-persist](https://github.com/MatchbookLab/local-persist) | Create named local volumes that persist in the location(s) you want | MatchbookLab | 632 |
-| 38 |  [client-go](https://github.com/newreleasesio/client-go) | NewReleases API v1 Go client | newreleasesio | 9 |
-| 39 |  [cli-go](https://github.com/newreleasesio/cli-go) | NewReleases CLI | newreleasesio | 17 |
-| 40 |  [sshcode](https://github.com/cdr/sshcode) | Run VS Code on any server over SSH. | cdr | 5792 |
-| 41 |  [scaleway-camlistore](https://github.com/scaleway-community/scaleway-camlistore) | :minidisc: Camlistore as a scaleway image | scaleway-community | 7 |
-| 42 |  [gclone](https://github.com/donwa/gclone) | rclone mod | donwa | 544 |
-| 43 |  [koding](https://github.com/koding/koding) | The Simplest Way to Manage Your Entire Dev Infrastructure! | koding | 1785 |
-| 44 |  [repogen](https://github.com/pgaskin/repogen) | Easy-to-use signed APT repository generator with a web-based package browser. | pgaskin | 22 |
-| 45 |  [repogen](https://github.com/skyjia/repogen) | A toy to generate a Markdown index document for my starred GitHub repositories. | skyjia | 44 |
-| 46 |  [stackedit-docker](https://github.com/qdm12/stackedit-docker) | StackEdit 5.14.5 Server in a light Docker container | qdm12 | 16 |
-| 47 |  [offlinenotepad](https://github.com/schollz/offlinenotepad) | An offline-first, secure, private notepad. :notebook_with_decorative_cover: :pencil2: | schollz | 167 |
-| 48 |  [hugo](https://github.com/gohugoio/hugo) | The world’s fastest framework for building websites. | gohugoio | 46723 |
-| 49 |  [boilr](https://github.com/tmrts/boilr) | :zap: boilerplate template manager that generates files or directories from template repositories | tmrts | 1164 |
-| 50 |  [engine-api](https://github.com/docker/engine-api) | DEPRECATED: Please see https://github.com/docker/docker/tree/master/client | docker | 267 |
-| 51 |  [perkeep](https://github.com/perkeep/perkeep) | Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content. | perkeep | 5148 |
-| 52 |  [gphotos-cdp](https://github.com/perkeep/gphotos-cdp) | This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos. | perkeep | 375 |
-| 53 |  [timeliner](https://github.com/mholt/timeliner) | All your digital life on a single timeline, stored locally | mholt | 2324 |
-| 54 |  [gitmoo-goog](https://github.com/dtylman/gitmoo-goog) | A Google Photos backup tool. | dtylman | 33 |
+| 10 |  [dzone-refcardz-downloader](https://github.com/luckylittle/dzone-refcardz-downloader) | Downloads all refcardz from https://dzone.com/refcardz | luckylittle | 8 |
+| 11 |  [mdr](https://github.com/MichaelMure/mdr) | MarkDown Renderer for the terminal | MichaelMure | 280 |
+| 12 |  [go-term-markdown](https://github.com/MichaelMure/go-term-markdown) | A markdown renderer package for the terminal | MichaelMure | 185 |
+| 13 |  [rewind](https://github.com/xtaci/rewind) | Text-Based UI for Kafka | xtaci | 20 |
+| 14 |  [self-hosted](https://github.com/gitpod-io/self-hosted) | Gitpod Self-Hosted | gitpod-io | 160 |
+| 15 |  [lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | jesseduffield | 16217 |
+| 16 |  [ghorg](https://github.com/gabrie30/ghorg) | Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, and Bitbucket | gabrie30 | 248 |
+| 17 |  [flynn](https://github.com/flynn/flynn) | A next generation open source platform as a service (PaaS) | flynn | 7753 |
+| 18 |  [Timimi](https://github.com/ibnishak/Timimi) | Webextension to save Tiddlywiki | ibnishak | 103 |
+| 19 |  [NotiGoCMS](https://github.com/lvntbkdmr/NotiGoCMS) | A CMS for Hugo static website framework based on Notion.so | lvntbkdmr | 4 |
+| 20 |  [makesite](https://github.com/Make-School-Labs/makesite) | Create your own custom Static Site Generator (Jekyll, Hugo) by fulfilling the requirements in this repo! | Make-School-Labs | 1 |
+| 21 |  [til](https://github.com/senorprogrammer/til) | 🍊 A super-simple static site generator for capturing quick notes | senorprogrammer | 9 |
+| 22 |  [feedloggr](https://github.com/lmas/feedloggr) | Collect news from your favorite RSS/Atom feeds and generate simple and static web pages to browse the news in. | lmas | 3 |
+| 23 |  [rook](https://github.com/rook/rook) | Storage Orchestration for Kubernetes | rook | 7640 |
+| 24 |  [moby](https://github.com/moby/moby) | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | moby | 58195 |
+| 25 |  [buildx](https://github.com/docker/buildx) | Docker CLI plugin for extended build capabilities with BuildKit | docker | 732 |
+| 26 |  [cloud-torrent](https://github.com/jpillora/cloud-torrent) | ☁️ Cloud Torrent: a self-hosted remote torrent client | jpillora | 4543 |
+| 27 |  [fortio](https://github.com/fortio/fortio) | Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats. | fortio | 1460 |
+| 28 |  [os](https://github.com/rancher/os) | Tiny Linux distro that runs the entire OS as Docker containers | rancher | 5997 |
+| 29 |  [viewscreen](https://github.com/viewscreen/viewscreen) | Viewscreen - a personal video streaming server | viewscreen | 214 |
+| 30 |  [weave](https://github.com/weaveworks/weave) | Simple, resilient multi-host containers networking and more. | weaveworks | 5932 |
+| 31 |  [k3sup](https://github.com/alexellis/k3sup) | bootstrap Kubernetes with k3s over SSH &amp;lt; 1 min 🚀 | alexellis | 2369 |
+| 32 |  [docker-slim](https://github.com/docker-slim/docker-slim) | DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) | docker-slim | 9152 |
+| 33 |  [ran](https://github.com/m3ng9i/ran) | a simple static web server written in Go | m3ng9i | 633 |
+| 34 |  [adhoc-httpd](https://github.com/tv42/adhoc-httpd) | Quick &amp; dirty HTTP static file server | tv42 | 12 |
+| 35 |  [go-fileserver](https://github.com/prdpx7/go-fileserver) | A simple HTTP Server to share files over WiFi via Qr Code | prdpx7 | 48 |
+| 36 |  [local-persist](https://github.com/MatchbookLab/local-persist) | Create named local volumes that persist in the location(s) you want | MatchbookLab | 632 |
+| 37 |  [client-go](https://github.com/newreleasesio/client-go) | NewReleases API v1 Go client | newreleasesio | 9 |
+| 38 |  [cli-go](https://github.com/newreleasesio/cli-go) | NewReleases CLI | newreleasesio | 17 |
+| 39 |  [sshcode](https://github.com/cdr/sshcode) | Run VS Code on any server over SSH. | cdr | 5792 |
+| 40 |  [scaleway-camlistore](https://github.com/scaleway-community/scaleway-camlistore) | :minidisc: Camlistore as a scaleway image | scaleway-community | 7 |
+| 41 |  [gclone](https://github.com/donwa/gclone) | rclone mod | donwa | 544 |
+| 42 |  [koding](https://github.com/koding/koding) | The Simplest Way to Manage Your Entire Dev Infrastructure! | koding | 1785 |
+| 43 |  [repogen](https://github.com/pgaskin/repogen) | Easy-to-use signed APT repository generator with a web-based package browser. | pgaskin | 22 |
+| 44 |  [repogen](https://github.com/skyjia/repogen) | A toy to generate a Markdown index document for my starred GitHub repositories. | skyjia | 44 |
+| 45 |  [stackedit-docker](https://github.com/qdm12/stackedit-docker) | StackEdit 5.14.5 Server in a light Docker container | qdm12 | 16 |
+| 46 |  [offlinenotepad](https://github.com/schollz/offlinenotepad) | An offline-first, secure, private notepad. :notebook_with_decorative_cover: :pencil2: | schollz | 167 |
+| 47 |  [hugo](https://github.com/gohugoio/hugo) | The world’s fastest framework for building websites. | gohugoio | 46723 |
+| 48 |  [boilr](https://github.com/tmrts/boilr) | :zap: boilerplate template manager that generates files or directories from template repositories | tmrts | 1164 |
+| 49 |  [engine-api](https://github.com/docker/engine-api) | DEPRECATED: Please see https://github.com/docker/docker/tree/master/client | docker | 267 |
+| 50 |  [perkeep](https://github.com/perkeep/perkeep) | Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content. | perkeep | 5148 |
+| 51 |  [gphotos-cdp](https://github.com/perkeep/gphotos-cdp) | This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos. | perkeep | 375 |
+| 52 |  [timeliner](https://github.com/mholt/timeliner) | All your digital life on a single timeline, stored locally | mholt | 2324 |
+| 53 |  [gitmoo-goog](https://github.com/dtylman/gitmoo-goog) | A Google Photos backup tool. | dtylman | 33 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -318,71 +317,72 @@
 | 18 |  [Brutalist-Framework](https://github.com/pinecreativelabs/Brutalist-Framework) | A framework for the brutalist web design trend. | pinecreativelabs | 359 |
 | 19 |  [markr](https://github.com/faraazahmad/markr) | A simple browser-based Markdown editor with live preview using Vue.js | faraazahmad | 6 |
 | 20 |  [cloud-ide](https://github.com/rberrelleza/cloud-ide) | Deploy your own Cloud IDE in Okteto Cloud and work directly in your cluster | rberrelleza | 2 |
-| 21 |  [AndroidCkEditor5](https://github.com/somasekharkakarla/AndroidCkEditor5) | CkEditor5 is customised for android | somasekharkakarla | 1 |
-| 22 |  [top-hat](https://github.com/ThemesGuide/top-hat) | Tophat Themes - Give Bootstrap a custom, stylish look 🎩 | ThemesGuide | 162 |
-| 23 |  [startpage](https://github.com/ChiefMedicalOfficer/startpage) | A startpage using html/css/js | ChiefMedicalOfficer | 50 |
-| 24 |  [alpine-term](https://github.com/xeffyr/alpine-term) | Run Alpine Linux in your pocket. | xeffyr | 103 |
-| 25 |  [netlify-identity-widget](https://github.com/netlify/netlify-identity-widget) | A zero config, framework free Netlify Identity widget | netlify | 456 |
-| 26 |  [GithubCMS](https://github.com/jppope/GithubCMS) | Using Cloudflare, Github Actions, Metalsmith (and Github) to Manage Content! | jppope | 5 |
-| 27 |  [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web) | A simple HTML+JS page that allows you to post new articles to your GitHub-hosted Jekyll blog, via web. | vrypan | 104 |
-| 28 |  [google-drive-cms](https://github.com/max-barry/google-drive-cms) | A content management system (CMS) built on an interface everyone understands (n.b. No longer maintained) | max-barry | 296 |
-| 29 |  [remark](https://github.com/gnab/remark) | A simple, in-browser, markdown-driven slideshow tool. | gnab | 10740 |
-| 30 |  [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) | A vintage 1980s DOS inspired Twitter Bootstrap theme | kristopolous | 5695 |
-| 31 |  [zerm](https://github.com/ejmg/zerm) | a minimalist and dark theme for Zola | ejmg | 10 |
-| 32 |  [mvp](https://github.com/andybrewer/mvp) | MVP.css — Minimalist stylesheet for HTML elements | andybrewer | 2741 |
-| 33 |  [gulp-markdown2bootstrap](https://github.com/mitsuruog/gulp-markdown2bootstrap) | Markdown to html bootstrap page converter | mitsuruog | 5 |
-| 34 |  [markdown-styles](https://github.com/mixu/markdown-styles) | Markdown to static HTML generator and multiple CSS themes for Markdown | mixu | 1548 |
-| 35 |  [webweb2](https://github.com/Merlin04/webweb2) | A CMS with a web-based IDE, support for C# Razor syntax, compilation to plain HTML, and the ability to deploy to GitHub Pages or a location on your server. | Merlin04 | 3 |
-| 36 |  [gistpreview.github.io](https://github.com/gistpreview/gistpreview.github.io) | Gist HTML Preview | gistpreview | 33 |
-| 37 |  [dashboards](https://github.com/keen/dashboards) | Responsive dashboard templates 📊✨ | keen | 10836 |
-| 38 |  [dillinger](https://github.com/joemccann/dillinger) | The last Markdown editor, ever. | joemccann | 6864 |
-| 39 |  [ish.app](https://github.com/ish-app/ish.app) | The iSH website | ish-app | 18 |
-| 40 |  [framework7-simplest-template](https://github.com/valnub/framework7-simplest-template) | The simplest Framework7 template possible | valnub | 10 |
-| 41 |  [framework7-parcel-template](https://github.com/GuillaumeBiton/framework7-parcel-template) | Framework7 starter app template bundle up by parcel | GuillaumeBiton | 9 |
-| 42 |  [path-slider](https://github.com/lmgonzalves/path-slider) | Animating Elements Along SVG Paths with Javascript | lmgonzalves | 199 |
-| 43 |  [tiddlyroam](https://github.com/joekroese/tiddlyroam) | Your open source external brain | joekroese | 233 |
-| 44 |  [foundation-sites](https://github.com/foundation/foundation-sites) | The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. | foundation | 28776 |
-| 45 |  [HugoGlitch](https://github.com/strawstack/HugoGlitch) | Host a Hugo blog on Glitch with these starter files | strawstack | 2 |
-| 46 |  [decko](https://github.com/decko-commons/decko) | Start with a deck of wiki cards.  Develop it into a rich web app. | decko-commons | 31 |
-| 47 |  [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) | ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com | daattali | 2888 |
-| 48 |  [beautifulhugo](https://github.com/halogenica/beautifulhugo) | Theme for the Hugo static website generator | halogenica | 751 |
-| 49 |  [blog](https://github.com/kjk/blog) | Static site generator for my blog | kjk | 410 |
-| 50 |  [makesite](https://github.com/fspaolo/makesite) | Makesite.py - Extremely simple static site generator | fspaolo | 8 |
-| 51 |  [placeholdifier](https://github.com/pomber/placeholdifier) | Turn any website into a live wireframe | pomber | 213 |
-| 52 |  [ghpages-skeleton](https://github.com/insomnux/ghpages-skeleton) | GitHub pages template (Jekyll directory structure, posts in Markdown) | insomnux | 1 |
-| 53 |  [ghost-skeleton](https://github.com/JMKelley/ghost-skeleton) | Ghost.org Skeleton/Bare Bones Theme | JMKelley | 10 |
-| 54 |  [markdown-notepad](https://github.com/zzzhan/markdown-notepad) | Online markdown editor.The BEST or NOTHING! | zzzhan | 47 |
-| 55 |  [crx-extractor](https://github.com/vladignatyev/crx-extractor) | CRX Extractor downloads and extracts Chrome Extensions and its source code | vladignatyev | 102 |
-| 56 |  [coderstats](https://github.com/sorxrob/coderstats) | 📊 Data visualizations of your top languages, starred repositories and top repos. | sorxrob | 60 |
-| 57 |  [smakerspace.github.io](https://github.com/SmakerSpace/smakerspace.github.io) | Smaker Space: A collaborative work environment for designers and developers. | SmakerSpace | 1 |
-| 58 |  [thought-tank](https://github.com/Thought-Tank/thought-tank) | Your second brain belongs to you. | Thought-Tank | 4 |
-| 59 |  [thedev.id](https://github.com/fransallen/thedev.id) | A free identity for developers on the web. | fransallen | 12 |
-| 60 |  [freenom-script](https://github.com/mkorthof/freenom-script) | Domain Renewal and Dynamic DNS script for freenom.com (in Bash) | mkorthof | 87 |
-| 61 |  [ghdo](https://github.com/ReportCardsMC/ghdo) | Github Domains \| Inspired by js.org \| Free subdomains for Github Pages, Glitch.com, or Heroku! | ReportCardsMC | 4 |
-| 62 |  [planet-top](https://github.com/planet-templates/planet-top) | top - planet template pack | planet-templates | 3 |
-| 63 |  [github-corners](https://github.com/tholman/github-corners) | A fresher &#34;Fork me on GitHub&#34; callout. | tholman | 4257 |
-| 64 |  [heroku-static-site](https://github.com/jamiew/heroku-static-site) | A basic Ruby/Rack app for publishing a static HTML/CSS/javascript website on Heroku (for free) | jamiew | 141 |
-| 65 |  [DockerStaticSite](https://github.com/nishanttotla/DockerStaticSite) | A simple static website using Docker and Nginx | nishanttotla | 72 |
-| 66 |  [webdesignrepo](https://github.com/mildrenben/webdesignrepo) | A collection of quality webdesign links | mildrenben | 225 |
-| 67 |  [liveeditor](https://github.com/tomhodgins/liveeditor) | A simple live HTML, CSS, and JavaScript scratchpad in your browser | tomhodgins | 77 |
-| 68 |  [startpages.github.io](https://github.com/startpages/startpages.github.io) | A curated list of startpages for your browser. | startpages | 212 |
-| 69 |  [turndown](https://github.com/domchristie/turndown) | 🛏 An HTML to Markdown converter written in JavaScript | domchristie | 5136 |
-| 70 |  [tab](https://github.com/maximtrp/tab) | Start Page Generator in Python :bookmark_tabs: | maximtrp | 10 |
-| 71 |  [startpage](https://github.com/crumb1e/startpage) | a minimal startpage for all my usual links | crumb1e | 6 |
-| 72 |  [startpage](https://github.com/xero/startpage) | a custom new tab homepage | xero | 19 |
-| 73 |  [static-marks](https://github.com/darekkay/static-marks) | Shareable bookmarks | darekkay | 71 |
-| 74 |  [GitHubTrendingRSS](https://github.com/mshibanami/GitHubTrendingRSS) | Unofficial RSS feed generator for GitHub Trending | mshibanami | 35 |
-| 75 |  [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ripienaar | 38630 |
-| 76 |  [Jekyll-Silex](https://github.com/lexoyo/Jekyll-Silex) | This is an experiment to use Silex website builder (foss) as a template editor for a multilingual Jekyll website | lexoyo | 2 |
-| 77 |  [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) | 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes! | wowchemy | 4999 |
-| 78 |  [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) | A neural network that transforms a design mock-up into a static website. | emilwallner | 12755 |
-| 79 |  [filelink](https://github.com/txthinking/filelink) | Upload and download file in command line | txthinking | 5 |
-| 80 |  [hn.svelte.technology](https://github.com/sveltejs/hn.svelte.technology) | Hacker News, built with Sapper | sveltejs | 29 |
-| 81 |  [hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) | HNPWA - Hacker News readers as Progressive Web Apps 📱 | tastejs | 2273 |
-| 82 |  [get](https://github.com/0install/get) | website with download links for Zero Install | 0install | 2 |
-| 83 |  [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) | A curated list of awesome warez and piracy links | Igglybuff | 11259 |
-| 84 |  [winbindex](https://github.com/m417z/winbindex) | An index of Windows binaries, including download links for executables such as exe, dll and sys files | m417z | 76 |
-| 85 |  [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) | Backup and Restore your Spotify Playlists and &#34;My Music&#34; | secuvera | 417 |
+| 21 |  [daptin](https://github.com/daptin/daptin) | Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS | daptin | 1045 |
+| 22 |  [AndroidCkEditor5](https://github.com/somasekharkakarla/AndroidCkEditor5) | CkEditor5 is customised for android | somasekharkakarla | 1 |
+| 23 |  [top-hat](https://github.com/ThemesGuide/top-hat) | Tophat Themes - Give Bootstrap a custom, stylish look 🎩 | ThemesGuide | 162 |
+| 24 |  [startpage](https://github.com/ChiefMedicalOfficer/startpage) | A startpage using html/css/js | ChiefMedicalOfficer | 50 |
+| 25 |  [alpine-term](https://github.com/xeffyr/alpine-term) | Run Alpine Linux in your pocket. | xeffyr | 103 |
+| 26 |  [netlify-identity-widget](https://github.com/netlify/netlify-identity-widget) | A zero config, framework free Netlify Identity widget | netlify | 456 |
+| 27 |  [GithubCMS](https://github.com/jppope/GithubCMS) | Using Cloudflare, Github Actions, Metalsmith (and Github) to Manage Content! | jppope | 5 |
+| 28 |  [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web) | A simple HTML+JS page that allows you to post new articles to your GitHub-hosted Jekyll blog, via web. | vrypan | 104 |
+| 29 |  [google-drive-cms](https://github.com/max-barry/google-drive-cms) | A content management system (CMS) built on an interface everyone understands (n.b. No longer maintained) | max-barry | 296 |
+| 30 |  [remark](https://github.com/gnab/remark) | A simple, in-browser, markdown-driven slideshow tool. | gnab | 10740 |
+| 31 |  [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) | A vintage 1980s DOS inspired Twitter Bootstrap theme | kristopolous | 5695 |
+| 32 |  [zerm](https://github.com/ejmg/zerm) | a minimalist and dark theme for Zola | ejmg | 10 |
+| 33 |  [mvp](https://github.com/andybrewer/mvp) | MVP.css — Minimalist stylesheet for HTML elements | andybrewer | 2741 |
+| 34 |  [gulp-markdown2bootstrap](https://github.com/mitsuruog/gulp-markdown2bootstrap) | Markdown to html bootstrap page converter | mitsuruog | 5 |
+| 35 |  [markdown-styles](https://github.com/mixu/markdown-styles) | Markdown to static HTML generator and multiple CSS themes for Markdown | mixu | 1548 |
+| 36 |  [webweb2](https://github.com/Merlin04/webweb2) | A CMS with a web-based IDE, support for C# Razor syntax, compilation to plain HTML, and the ability to deploy to GitHub Pages or a location on your server. | Merlin04 | 3 |
+| 37 |  [gistpreview.github.io](https://github.com/gistpreview/gistpreview.github.io) | Gist HTML Preview | gistpreview | 33 |
+| 38 |  [dashboards](https://github.com/keen/dashboards) | Responsive dashboard templates 📊✨ | keen | 10837 |
+| 39 |  [dillinger](https://github.com/joemccann/dillinger) | The last Markdown editor, ever. | joemccann | 6864 |
+| 40 |  [ish.app](https://github.com/ish-app/ish.app) | The iSH website | ish-app | 18 |
+| 41 |  [framework7-simplest-template](https://github.com/valnub/framework7-simplest-template) | The simplest Framework7 template possible | valnub | 10 |
+| 42 |  [framework7-parcel-template](https://github.com/GuillaumeBiton/framework7-parcel-template) | Framework7 starter app template bundle up by parcel | GuillaumeBiton | 9 |
+| 43 |  [path-slider](https://github.com/lmgonzalves/path-slider) | Animating Elements Along SVG Paths with Javascript | lmgonzalves | 199 |
+| 44 |  [tiddlyroam](https://github.com/joekroese/tiddlyroam) | Your open source external brain | joekroese | 233 |
+| 45 |  [foundation-sites](https://github.com/foundation/foundation-sites) | The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. | foundation | 28776 |
+| 46 |  [HugoGlitch](https://github.com/strawstack/HugoGlitch) | Host a Hugo blog on Glitch with these starter files | strawstack | 2 |
+| 47 |  [decko](https://github.com/decko-commons/decko) | Start with a deck of wiki cards.  Develop it into a rich web app. | decko-commons | 31 |
+| 48 |  [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) | ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com | daattali | 2888 |
+| 49 |  [beautifulhugo](https://github.com/halogenica/beautifulhugo) | Theme for the Hugo static website generator | halogenica | 751 |
+| 50 |  [blog](https://github.com/kjk/blog) | Static site generator for my blog | kjk | 410 |
+| 51 |  [makesite](https://github.com/fspaolo/makesite) | Makesite.py - Extremely simple static site generator | fspaolo | 8 |
+| 52 |  [placeholdifier](https://github.com/pomber/placeholdifier) | Turn any website into a live wireframe | pomber | 213 |
+| 53 |  [ghpages-skeleton](https://github.com/insomnux/ghpages-skeleton) | GitHub pages template (Jekyll directory structure, posts in Markdown) | insomnux | 1 |
+| 54 |  [ghost-skeleton](https://github.com/JMKelley/ghost-skeleton) | Ghost.org Skeleton/Bare Bones Theme | JMKelley | 10 |
+| 55 |  [markdown-notepad](https://github.com/zzzhan/markdown-notepad) | Online markdown editor.The BEST or NOTHING! | zzzhan | 47 |
+| 56 |  [crx-extractor](https://github.com/vladignatyev/crx-extractor) | CRX Extractor downloads and extracts Chrome Extensions and its source code | vladignatyev | 102 |
+| 57 |  [coderstats](https://github.com/sorxrob/coderstats) | 📊 Data visualizations of your top languages, starred repositories and top repos. | sorxrob | 60 |
+| 58 |  [smakerspace.github.io](https://github.com/SmakerSpace/smakerspace.github.io) | Smaker Space: A collaborative work environment for designers and developers. | SmakerSpace | 1 |
+| 59 |  [thought-tank](https://github.com/Thought-Tank/thought-tank) | Your second brain belongs to you. | Thought-Tank | 4 |
+| 60 |  [thedev.id](https://github.com/fransallen/thedev.id) | A free identity for developers on the web. | fransallen | 12 |
+| 61 |  [freenom-script](https://github.com/mkorthof/freenom-script) | Domain Renewal and Dynamic DNS script for freenom.com (in Bash) | mkorthof | 87 |
+| 62 |  [ghdo](https://github.com/ReportCardsMC/ghdo) | Github Domains \| Inspired by js.org \| Free subdomains for Github Pages, Glitch.com, or Heroku! | ReportCardsMC | 4 |
+| 63 |  [planet-top](https://github.com/planet-templates/planet-top) | top - planet template pack | planet-templates | 3 |
+| 64 |  [github-corners](https://github.com/tholman/github-corners) | A fresher &#34;Fork me on GitHub&#34; callout. | tholman | 4257 |
+| 65 |  [heroku-static-site](https://github.com/jamiew/heroku-static-site) | A basic Ruby/Rack app for publishing a static HTML/CSS/javascript website on Heroku (for free) | jamiew | 141 |
+| 66 |  [DockerStaticSite](https://github.com/nishanttotla/DockerStaticSite) | A simple static website using Docker and Nginx | nishanttotla | 72 |
+| 67 |  [webdesignrepo](https://github.com/mildrenben/webdesignrepo) | A collection of quality webdesign links | mildrenben | 225 |
+| 68 |  [liveeditor](https://github.com/tomhodgins/liveeditor) | A simple live HTML, CSS, and JavaScript scratchpad in your browser | tomhodgins | 77 |
+| 69 |  [startpages.github.io](https://github.com/startpages/startpages.github.io) | A curated list of startpages for your browser. | startpages | 212 |
+| 70 |  [turndown](https://github.com/domchristie/turndown) | 🛏 An HTML to Markdown converter written in JavaScript | domchristie | 5136 |
+| 71 |  [tab](https://github.com/maximtrp/tab) | Start Page Generator in Python :bookmark_tabs: | maximtrp | 10 |
+| 72 |  [startpage](https://github.com/crumb1e/startpage) | a minimal startpage for all my usual links | crumb1e | 6 |
+| 73 |  [startpage](https://github.com/xero/startpage) | a custom new tab homepage | xero | 19 |
+| 74 |  [static-marks](https://github.com/darekkay/static-marks) | Shareable bookmarks | darekkay | 71 |
+| 75 |  [GitHubTrendingRSS](https://github.com/mshibanami/GitHubTrendingRSS) | Unofficial RSS feed generator for GitHub Trending | mshibanami | 35 |
+| 76 |  [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ripienaar | 38631 |
+| 77 |  [Jekyll-Silex](https://github.com/lexoyo/Jekyll-Silex) | This is an experiment to use Silex website builder (foss) as a template editor for a multilingual Jekyll website | lexoyo | 2 |
+| 78 |  [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) | 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes! | wowchemy | 4999 |
+| 79 |  [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) | A neural network that transforms a design mock-up into a static website. | emilwallner | 12755 |
+| 80 |  [filelink](https://github.com/txthinking/filelink) | Upload and download file in command line | txthinking | 5 |
+| 81 |  [hn.svelte.technology](https://github.com/sveltejs/hn.svelte.technology) | Hacker News, built with Sapper | sveltejs | 29 |
+| 82 |  [hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) | HNPWA - Hacker News readers as Progressive Web Apps 📱 | tastejs | 2273 |
+| 83 |  [get](https://github.com/0install/get) | website with download links for Zero Install | 0install | 2 |
+| 84 |  [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) | A curated list of awesome warez and piracy links | Igglybuff | 11259 |
+| 85 |  [winbindex](https://github.com/m417z/winbindex) | An index of Windows binaries, including download links for executables such as exe, dll and sys files | m417z | 76 |
+| 86 |  [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) | Backup and Restore your Spotify Playlists and &#34;My Music&#34; | secuvera | 417 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -415,7 +415,7 @@
 | 8 |  [gs-gradle](https://github.com/spring-guides/gs-gradle) | Building Java Projects with Gradle :: Learn how to build a Java project with Gradle. | spring-guides | 96 |
 | 9 |  [GradleOpenShift](https://github.com/cesarvr/GradleOpenShift) | How to run Gradle applications in Openshift. | cesarvr | 1 |
 | 10 |  [jib](https://github.com/GoogleContainerTools/jib) | 🏗 Build container images for your Java applications. | GoogleContainerTools | 9658 |
-| 11 |  [Markwon](https://github.com/noties/Markwon) | Android markdown library (no WebView) | noties | 1477 |
+| 11 |  [Markwon](https://github.com/noties/Markwon) | Android markdown library (no WebView) | noties | 1478 |
 | 12 |  [markor](https://github.com/gsantner/markor) | Text editor - Notes &amp; ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. | gsantner | 1104 |
 | 13 |  [ASM](https://github.com/asm-ide/ASM) | Android Studio Mobile - A mobile IDE. Now moved to gitlab: https://gitlab.com/asm-ide | asm-ide | 30 |
 | 14 |  [richeditor-android](https://github.com/wasabeef/richeditor-android) | RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android. | wasabeef | 5115 |
@@ -460,7 +460,7 @@
 | 3 |  [embed-notion](https://github.com/Kroid/embed-notion) | Embed components for notion | Kroid | 8 |
 | 4 |  [notabase](https://github.com/mayneyao/notabase) | API wrapper for Notion&#39;s database [WIP] | mayneyao | 96 |
 | 5 |  [Most-starred-Github-repos](https://github.com/NaLogos/Most-starred-Github-repos) | A list of the most starred Github repos created in the last 30 days (relative to the date entered) | NaLogos | 1 |
-| 6 |  [prosemirror](https://github.com/ProseMirror/prosemirror) | The ProseMirror WYSIWYM editor | ProseMirror | 4683 |
+| 6 |  [prosemirror](https://github.com/ProseMirror/prosemirror) | The ProseMirror WYSIWYM editor | ProseMirror | 4684 |
 | 7 |  [HitUP](https://github.com/wonderbeyond/HitUP) | Find top things in New Tab, including GitHub Trending Repositories. | wonderbeyond | 129 |
 | 8 |  [githunt](https://github.com/kamranahmedse/githunt) | Hunt the most starred projects on any date on GitHub | kamranahmedse | 1808 |
 | 9 |  [embedza](https://github.com/nodeca/embedza) | Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags. | nodeca | 47 |
@@ -474,12 +474,12 @@
 | 17 |  [snailjs](https://github.com/BrunoBernardino/snailjs) | SnailJS - Slow and thoughtful development with Node and React | BrunoBernardino | 185 |
 | 18 |  [glitch-localdev](https://github.com/LetMyPeopleCode/glitch-localdev) | A package of utilities to make it easier to clone your glitch.com project, develop locally with your favorite editor, and ensure your local copy syncs with your Glitch | LetMyPeopleCode | 3 |
 | 19 |  [piskel-clone](https://github.com/vladji/piskel-clone) | Web App (vanilla JS). draw-editor. creating slides, export to .gif/.apng | vladji | 1 |
-| 20 |  [localForage](https://github.com/localForage/localForage) | 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API. | localForage | 17794 |
+| 20 |  [localForage](https://github.com/localForage/localForage) | 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API. | localForage | 17795 |
 | 21 |  [handsontable](https://github.com/handsontable/handsontable) | Handsontable is a JavaScript/HTML5 data grid with spreadsheet look &amp; feel. Available for React, Vue and Angular. | handsontable | 14229 |
-| 22 |  [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide | airbnb | 99809 |
+| 22 |  [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide | airbnb | 99808 |
 | 23 |  [react-native-starter](https://github.com/flatlogic/react-native-starter) | 🚀A powerful react native starter template that bootstraps development of your mobile application | flatlogic | 1451 |
 | 24 |  [jquery.serializeJSON](https://github.com/marioizquierdo/jquery.serializeJSON) | Serialize an HTML Form to a JavaScript Object, supporting nested attributes and arrays. | marioizquierdo | 1587 |
-| 25 |  [x-spreadsheet](https://github.com/myliang/x-spreadsheet) | A web-based JavaScript（canvas） spreadsheet | myliang | 10015 |
+| 25 |  [x-spreadsheet](https://github.com/myliang/x-spreadsheet) | A web-based JavaScript（canvas） spreadsheet | myliang | 10016 |
 | 26 |  [airtable-poster-generator-block](https://github.com/harshitjuneja/airtable-poster-generator-block) | Instant poster generator with a rich canvas made for brand marketers to come up with quick posters to support their branding campaigns. | harshitjuneja | 2 |
 | 27 |  [airtable-api-connection](https://github.com/saas-developer/airtable-api-connection) |  | saas-developer | 7 |
 | 28 |  [AirtableOpenAPICustomBlock](https://github.com/TheF1rstPancake/AirtableOpenAPICustomBlock) | Create an OpenAPI specification for a given Airtable base using Airtable&#39;s Custom Blocks platform | TheF1rstPancake | 2 |
@@ -491,7 +491,7 @@
 | 34 |  [gatsby-starter-hello-world-pandas](https://github.com/noud/gatsby-starter-hello-world-pandas) | Gatsby (uses React) Starter Hello World Pandas Progressive Web App (PWA), mobile app, in Netlify Cloud and Surge CDN. | noud | 2 |
 | 35 |  [offline-plugin](https://github.com/NekR/offline-plugin) | Offline plugin  (ServiceWorker, AppCache) for webpack (https://webpack.js.org/) | NekR | 4349 |
 | 36 |  [markdown-toc](https://github.com/jonschlinkert/markdown-toc) | Generate a markdown TOC (table of contents) for a README or any markdown files, using remarkable. Used by assemble, verb, and lots of other projects on GitHub. API and CLI. | jonschlinkert | 1104 |
-| 37 |  [doctoc](https://github.com/thlorenz/doctoc) | 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites. | thlorenz | 3097 |
+| 37 |  [doctoc](https://github.com/thlorenz/doctoc) | 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites. | thlorenz | 3098 |
 | 38 |  [gatsby-starter-gine-blog](https://github.com/mayneyao/gatsby-starter-gine-blog) | Blog powered by Notion.so | mayneyao | 35 |
 | 39 |  [sheetfu-apps-script](https://github.com/socialpoint-labs/sheetfu-apps-script) | A Google apps scripts ORM to manipulate spreadsheets as database tables. | socialpoint-labs | 99 |
 | 40 |  [airtable-github-export](https://github.com/digidem/airtable-github-export) | Export airtable tables to json/geojson on Github | digidem | 11 |
@@ -530,7 +530,7 @@
 | 73 |  [jquery.serializeToJSON](https://github.com/raphaelm22/jquery.serializeToJSON) | Serialize an HTML form (familiar with ASP MVC) to a JavaScript object, supporting nested attributes and arrays. | raphaelm22 | 32 |
 | 74 |  [array-explorer](https://github.com/sdras/array-explorer) | ⚡️ A resource to help figure out what JavaScript array method would be best to use at any given time | sdras | 2284 |
 | 75 |  [NativeBase](https://github.com/GeekyAnts/NativeBase) | Essential cross-platform UI components for React Native | GeekyAnts | 14251 |
-| 76 |  [awesome-react-native](https://github.com/jondot/awesome-react-native) | Awesome React Native components, news, tools, and learning material! | jondot | 28097 |
+| 76 |  [awesome-react-native](https://github.com/jondot/awesome-react-native) | Awesome React Native components, news, tools, and learning material! | jondot | 28098 |
 | 77 |  [fiddlesalad](https://github.com/yuguang/fiddlesalad) | An online playground with an instantly ready coding environment. Combine language preprocessors, CSS, HTML and JavaScript to create and share coding examples. | yuguang | 230 |
 | 78 |  [kody-web-editor](https://github.com/haikelfazzani/kody-web-editor) | 👨‍🏫 Online web editor html, css and javascript (dev mode) | haikelfazzani | 10 |
 | 79 |  [Keyboard](https://github.com/Mottie/Keyboard) | Virtual Keyboard using jQuery ~ | Mottie | 1578 |
@@ -539,7 +539,7 @@
 | 82 |  [github](https://github.com/github-tools/github) | A higher-level wrapper around the Github API. Intended for the browser. | github-tools | 3205 |
 | 83 |  [gitbook-plugin-expo-snack](https://github.com/a7ul/gitbook-plugin-expo-snack) | A gitbook plugin to add expo snacks | a7ul | 2 |
 | 84 |  [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. | LeCoupa | 13341 |
-| 85 |  [WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ | Nozbe | 6946 |
+| 85 |  [WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ | Nozbe | 6948 |
 | 86 |  [SpreadsheetManager](https://github.com/davecook88/SpreadsheetManager) | A useful class to import into Google Apps Script projects when working with Google Sheets. | davecook88 | 8 |
 | 87 |  [gas-cronsheet-slack](https://github.com/motemen/gas-cronsheet-slack) | Google Apps Script to use spreadsheet for timed posts to Slack | motemen | 51 |
 | 88 |  [sheetclip](https://github.com/warpech/sheetclip) | Copy/paste from your HTML5 web app to a spreadsheet | warpech | 294 |
@@ -566,7 +566,7 @@
 | 109 |  [glitch-github-sync](https://github.com/nmcardoso/glitch-github-sync) | Deploy your Github commit to Glitch.me server automatically. | nmcardoso | 9 |
 | 110 |  [Aspose.HTML-for-.NET](https://github.com/aspose-html/Aspose.HTML-for-.NET) | Aspose.HTML for .NET examples projects | aspose-html | 5 |
 | 111 |  [dumb-codepen](https://github.com/willianjusten/dumb-codepen) | A simple live editor with very few lines of code. | willianjusten | 73 |
-| 112 |  [ace](https://github.com/ajaxorg/ace) | Ace (Ajax.org Cloud9 Editor) | ajaxorg | 22067 |
+| 112 |  [ace](https://github.com/ajaxorg/ace) | Ace (Ajax.org Cloud9 Editor) | ajaxorg | 22069 |
 | 113 |  [cloud-doc](https://github.com/haightgao/cloud-doc) | electron + react + markwon | haightgao | 1 |
 | 114 |  [wopr](https://github.com/yaronn/wopr) | A simple markup language for creating rich terminal reports, presentations and infographics | yaronn | 2808 |
 | 115 |  [xcode-build-tools](https://github.com/ekreative/xcode-build-tools) | A few bash scripts to help with building ios apps | ekreative | 11 |
@@ -581,8 +581,8 @@
 | 124 |  [termpage](https://github.com/tautvilas/termpage) | Termpage allows you to create neat functional webpages that behave like a terminal | tautvilas | 222 |
 | 125 |  [parrot.live](https://github.com/hugomd/parrot.live) | 🐦  Bringing animated parrots to terminals everywhere | hugomd | 2356 |
 | 126 |  [download-directory.github.io](https://github.com/download-directory/download-directory.github.io) | Web App: Download just a sub directory from a GitHub repo. | download-directory | 152 |
-| 127 |  [json-server](https://github.com/typicode/json-server) | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | typicode | 49592 |
-| 128 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 30-seconds | 62018 |
+| 127 |  [json-server](https://github.com/typicode/json-server) | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | typicode | 49594 |
+| 128 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 30-seconds | 62020 |
 | 129 |  [BlockLike](https://github.com/ronilan/BlockLike) | Bridging the gap between block programming and JavaScript. | ronilan | 171 |
 | 130 |  [server](https://github.com/codimd/server) | CodiMD - Realtime collaborative markdown notes on all platforms. | codimd | 1144 |
 | 131 |  [strml.net](https://github.com/STRML/strml.net) | STRML: Projects &amp; Work | STRML | 2392 |
@@ -604,11 +604,11 @@
 | 147 |  [strapi-starter-gatsby-blog](https://github.com/strapi/strapi-starter-gatsby-blog) | Strapi Starter Gatsby Blog | strapi | 100 |
 | 148 |  [strapi](https://github.com/strapi/strapi) | 🚀 Open source Node.js Headless CMS to easily build customisable APIs | strapi | 29136 |
 | 149 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers | awesome-selfhosted | 48578 |
-| 150 |  [swagger-ui](https://github.com/swagger-api/swagger-ui) | Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. | swagger-api | 18488 |
+| 150 |  [swagger-ui](https://github.com/swagger-api/swagger-ui) | Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. | swagger-api | 18490 |
 | 151 |  [web](https://github.com/devnews/web) | devnews web app | devnews | 36 |
 | 152 |  [craft3-heroku-starterkit](https://github.com/edenspiekermann/craft3-heroku-starterkit) | This is a starter kit for Craft3 which helps you to install the CMS on Heroku | edenspiekermann | 18 |
 | 153 |  [glitch-deploy](https://github.com/glitch-tools/glitch-deploy) | CLI to deploy a GitHub repository to glitch.com | glitch-tools | 59 |
-| 154 |  [marcdown](https://github.com/liyasthomas/marcdown) | 👻 Lightweight realtime markdown viewer and editor - Simple, clean and beautiful https://liyasthomas.github.io/marcdown | liyasthomas | 307 |
+| 154 |  [marcdown](https://github.com/liyasthomas/marcdown) | 👻 Lightweight realtime markdown viewer and editor - Simple, clean and beautiful https://liyasthomas.github.io/marcdown | liyasthomas | 306 |
 | 155 |  [html5-to-pdf](https://github.com/peterdemartini/html5-to-pdf) | HTML to PDF converter based on markdown-to-pdf | peterdemartini | 110 |
 | 156 |  [gform-to-github](https://github.com/pfranck/gform-to-github) | Connector between Google Form and Github - create a JSON file on form submit - can be the base of a CMS | pfranck | 2 |
 | 157 |  [github-cms-action](https://github.com/paulkoanui/github-cms-action) | Use a GitHub Repository as a Content Management System | paulkoanui | 5 |
@@ -633,7 +633,7 @@
 | 176 |  [hello-trello](https://github.com/philhawksworth/hello-trello) |  | philhawksworth | 29 |
 | 177 |  [gulp-markdown](https://github.com/sindresorhus/gulp-markdown) | Markdown to HTML | sindresorhus | 159 |
 | 178 |  [codepan](https://github.com/egoist/codepan) | Like codepen and jsbin but works offline. | egoist | 922 |
-| 179 |  [snapdrop](https://github.com/RobinLinus/snapdrop) | A Progressive Web App for local file sharing | RobinLinus | 3325 |
+| 179 |  [snapdrop](https://github.com/RobinLinus/snapdrop) | A Progressive Web App for local file sharing | RobinLinus | 3326 |
 | 180 |  [UpUp](https://github.com/TalAter/UpUp) | ✈️ Easily create sites that work offline as well as online | TalAter | 4700 |
 | 181 |  [PWAify](https://github.com/vladikoff/PWAify) | 🖥  Brings Progressive Web App to your desktop. | vladikoff | 413 |
 | 182 |  [socket.io](https://github.com/socketio/socket.io) | Realtime application framework (Node.JS server) | socketio | 50695 |
@@ -649,7 +649,7 @@
 | 192 |  [tui.editor](https://github.com/nhn/tui.editor) | 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart &amp; UML Extensible. | nhn | 11754 |
 | 193 |  [nwotable](https://github.com/negrel/nwotable) | One app for all your notes on all your devices. | negrel | 16 |
 | 194 |  [code-editor](https://github.com/deadlyjack/code-editor) | Acode - powerful text/code editor for android | deadlyjack | 178 |
-| 195 |  [tiptap](https://github.com/ueberdosis/tiptap) | A renderless rich-text editor for Vue.js | ueberdosis | 7921 |
+| 195 |  [tiptap](https://github.com/ueberdosis/tiptap) | A renderless rich-text editor for Vue.js | ueberdosis | 7922 |
 | 196 |  [ipa-server](https://github.com/iineva/ipa-server) | Upload and install IPA in web. | iineva | 347 |
 | 197 |  [swift-package-registry](https://github.com/twodayslate/swift-package-registry) | A Swift Package Registry | twodayslate | 6 |
 | 198 |  [vuegg](https://github.com/vuegg/vuegg) | :hatching_chick: vue GUI generator | vuegg | 1701 |
@@ -659,7 +659,7 @@
 | 202 |  [threejs-intro](https://github.com/davidlyons/threejs-intro) | Intro to WebGL with Three.js presentation | davidlyons | 288 |
 | 203 |  [flood](https://github.com/pboyer/flood) | Visual programming for the browser | pboyer | 251 |
 | 204 |  [node-red](https://github.com/node-red/node-red) | Low-code programming for event-driven applications | node-red | 10576 |
-| 205 |  [OnsenUI](https://github.com/OnsenUI/OnsenUI) | Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js. | OnsenUI | 8087 |
+| 205 |  [OnsenUI](https://github.com/OnsenUI/OnsenUI) | Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js. | OnsenUI | 8086 |
 | 206 |  [editor](https://github.com/easylogic/editor) | Fantastic Web Design Tool | easylogic | 139 |
 | 207 |  [Caret](https://github.com/thomaswilburn/Caret) | A sublime text editor for Chrome OS | thomaswilburn | 1486 |
 | 208 |  [codesandbox-client](https://github.com/codesandbox/codesandbox-client) | An online IDE for rapid web development | codesandbox | 9804 |
@@ -675,7 +675,7 @@
 | 218 |  [jmpress.js](https://github.com/jmpressjs/jmpress.js) | A jQuery plugin to build a website on the infinite canvas | jmpressjs | 1523 |
 | 219 |  [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) | Lazy Line Painter - A Modern JS library for SVG path animation | camoconnell | 1770 |
 | 220 |  [babel](https://github.com/babel/babel) | 🐠 Babel is a compiler for writing next generation JavaScript. | babel | 37443 |
-| 221 |  [three.js](https://github.com/mrdoob/three.js) | JavaScript 3D library. | mrdoob | 63546 |
+| 221 |  [three.js](https://github.com/mrdoob/three.js) | JavaScript 3D library. | mrdoob | 63547 |
 | 222 |  [webglstudio.js](https://github.com/jagenjo/webglstudio.js) | A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more. | jagenjo | 4119 |
 | 223 |  [Zettlr](https://github.com/Zettlr/Zettlr) | A Markdown Editor for the 21st century. | Zettlr | 3493 |
 | 224 |  [CodeMirror](https://github.com/codemirror/CodeMirror) | In-browser code editor | codemirror | 21137 |
@@ -697,7 +697,7 @@
 | 240 |  [textillate](https://github.com/jschr/textillate) | A jquery plugin for CSS3 text animations. | jschr | 3502 |
 | 241 |  [PSD2HTML](https://github.com/wanxianjia/PSD2HTML) | PSD TO HTML | wanxianjia | 174 |
 | 242 |  [node-psd-to-html](https://github.com/Clarence-pan/node-psd-to-html) | A convertor which converts .psd file to .html file in node.js | Clarence-pan | 15 |
-| 243 |  [netlify-cms](https://github.com/netlify/netlify-cms) | A Git-based CMS for Static Site Generators | netlify | 12564 |
+| 243 |  [netlify-cms](https://github.com/netlify/netlify-cms) | A Git-based CMS for Static Site Generators | netlify | 12565 |
 | 244 |  [surge-sh-action](https://github.com/dswistowski/surge-sh-action) | surge-sh deploy action | dswistowski | 13 |
 | 245 |  [surge](https://github.com/sintaxi/surge) | CLI for the surge.sh CDN | sintaxi | 2315 |
 | 246 |  [readers-nest](https://github.com/pritam-patil/readers-nest) | Tribute to StumbleUpon with reddit content. (old version: http://readers-digest.surge.sh/) | pritam-patil | 1 |
@@ -741,7 +741,7 @@
 | 284 |  [roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) | Community driven roadmaps, articles and resources for developers | kamranahmedse | 1016 |
 | 285 |  [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) | A collection of awesome browser extensions for GitHub. | stefanbuck | 1984 |
 | 286 |  [GithubHunt](https://github.com/Bshal/GithubHunt) | GithubHunt is a simple github finder tool, built with reactjs, to provide github users with a simple access of features like – search user, most followed users, most starred repositories and many more. | Bshal | 2 |
-| 287 |  [anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | juliangarnier | 36806 |
+| 287 |  [anime](https://github.com/juliangarnier/anime) | JavaScript animation engine | juliangarnier | 36807 |
 | 288 |  [svg.js](https://github.com/svgdotjs/svg.js) | The lightweight library for manipulating and animating SVG | svgdotjs | 8299 |
 | 289 |  [quill](https://github.com/quilljs/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility. | quilljs | 27662 |
 | 290 |  [trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes | zadam | 8901 |
@@ -767,7 +767,7 @@
 | 310 |  [blnq-studio](https://github.com/blnqco/blnq-studio) | blnq studio code | blnqco | 14 |
 | 311 |  [statically-web](https://github.com/staticallyio/statically-web) | The Statically website | staticallyio | 6 |
 | 312 |  [dailylore](https://github.com/dguo/dailylore) | :newspaper: News headlines aggregator | dguo | 7 |
-| 313 |  [joplin](https://github.com/laurent22/joplin) | Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ | laurent22 | 17860 |
+| 313 |  [joplin](https://github.com/laurent22/joplin) | Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ | laurent22 | 17861 |
 | 314 |  [Adafruit-WebIDE](https://github.com/adafruit/Adafruit-WebIDE) | This is a simple editor to be used on the Raspberry Pi (or anywhere?). | adafruit | 459 |
 | 315 |  [favicongrabber.com](https://github.com/antongunov/favicongrabber.com) | Grabbing favicons from any domain | antongunov | 123 |
 | 316 |  [snahp-tool](https://github.com/Rawnly/snahp-tool) | Client for download movies from snahp lists. | Rawnly | 1 |
@@ -775,7 +775,7 @@
 | 318 |  [web-maker](https://github.com/chinchang/web-maker) | A blazing fast &amp; offline frontend playground | chinchang | 1757 |
 | 319 |  [codebox](https://github.com/CodeboxIDE/codebox) | Open source cloud &amp; desktop IDE | CodeboxIDE | 4006 |
 | 320 |  [G-Index](https://github.com/LeeluPradhan/G-Index) | Google Drive Directory Index Running on CloudFlare Workers [Search + DarkMode] [ENGLISH] | LeeluPradhan | 114 |
-| 321 |  [plyr](https://github.com/sampotts/plyr) | A simple HTML5, YouTube and Vimeo player | sampotts | 18108 |
+| 321 |  [plyr](https://github.com/sampotts/plyr) | A simple HTML5, YouTube and Vimeo player | sampotts | 18110 |
 | 322 |  [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) | ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol&#39; StumbleUpon, for developers, tech &amp; science lovers. | basharovV | 45 |
 | 323 |  [alerthub](https://github.com/Ardakilic/alerthub) | AlertHub is a simple tool written with NodeJS to get alerted from new GitHub and GitLab repository events. | Ardakilic | 92 |
 | 324 |  [deepfilm](https://github.com/runstorage/deepfilm) | DeepFilm is a platform for searching, streaming and storing movies from German television. | runstorage | 4 |
@@ -794,7 +794,7 @@
 | 337 |  [impress.js](https://github.com/impress/impress.js) | It&#39;s a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. | impress | 35888 |
 | 338 |  [pencil](https://github.com/evolus/pencil) | The Pencil Project&#39;s unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use. | evolus | 7684 |
 | 339 |  [extensions](https://github.com/raindropio/extensions) | Source code of Raindrop.io browser extension (Chrome, Firefox, Opera) | raindropio | 440 |
-| 340 |  [showdown](https://github.com/showdownjs/showdown) | A bidirectional Markdown to HTML to Markdown converter written in Javascript | showdownjs | 11047 |
+| 340 |  [showdown](https://github.com/showdownjs/showdown) | A bidirectional Markdown to HTML to Markdown converter written in Javascript | showdownjs | 11048 |
 | 341 |  [MarkMe](https://github.com/khalby786/MarkMe) | A simple, lightweight and beautiful Markdown editor and viewer. | khalby786 | 11 |
 | 342 |  [Robohash](https://github.com/e1ven/Robohash) | RoboHash.org | e1ven | 923 |
 | 343 |  [infinitefilespace](https://github.com/BlakeBrown/infinitefilespace) | Combine cloud storage services for more space | BlakeBrown | 2 |
@@ -824,13 +824,13 @@
 | 367 |  [presvg](https://github.com/feklee/presvg) | pres/v/g presentation tool for the web: present, annotate, print | feklee | 19 |
 | 368 |  [linux-dash](https://github.com/afaqurk/linux-dash) | A beautiful web dashboard for Linux | afaqurk | 9327 |
 | 369 |  [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) | FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug | GoogleChromeLabs | 3925 |
-| 370 |  [eruda](https://github.com/liriliri/eruda) | Console for mobile browsers | liriliri | 9156 |
+| 370 |  [eruda](https://github.com/liriliri/eruda) | Console for mobile browsers | liriliri | 9157 |
 | 371 |  [staticman](https://github.com/eduardoboucas/staticman) | 💪  Static sites with superpowers | eduardoboucas | 1818 |
 | 372 |  [gatsby-docs-kit](https://github.com/brainhubeu/gatsby-docs-kit) | 📃Easy to Maintain Markdown/React Documentation Static Websites | brainhubeu | 97 |
 | 373 |  [StackeditJS-example](https://github.com/jaipara/StackeditJS-example) | A simple example of implementing Stackedit markdown editor/ WYSIWYG editor. | jaipara | 7 |
 | 374 |  [stackedit.js](https://github.com/benweet/stackedit.js) | Add StackEdit to any website | benweet | 655 |
 | 375 |  [stackedit](https://github.com/benweet/stackedit) | In-browser Markdown editor | benweet | 17078 |
-| 376 |  [SingleFile](https://github.com/gildas-lormeau/SingleFile) | Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file | gildas-lormeau | 2349 |
+| 376 |  [SingleFile](https://github.com/gildas-lormeau/SingleFile) | Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file | gildas-lormeau | 2350 |
 | 377 |  [rclone-webui-react](https://github.com/rclone/rclone-webui-react) | A full fledged UI for the rclone cloud sync tool | rclone | 423 |
 | 378 |  [release-it](https://github.com/release-it/release-it) | 🚀 Automate versioning and package publishing | release-it | 3459 |
 | 379 |  [docker-compose-ui](https://github.com/francescou/docker-compose-ui) | web interface for Docker Compose | francescou | 1387 |
@@ -864,7 +864,7 @@
 | 1 |  [Github-Stars-to-CSV](https://github.com/tzw5099/Github-Stars-to-CSV) | Outputs a pandas DataFrame and export a CSV, containing information about your starred repos. | tzw5099 | 1 |
 | 2 |  [Notion-to-GitHub-Pages](https://github.com/uoneway/Notion-to-GitHub-Pages) | Shell scripts for auto uploading Notion note to GitHub Pages | uoneway | 28 |
 | 3 |  [conda](https://github.com/binder-examples/conda) | Specifying a conda environment with `environment.yml` | binder-examples | 33 |
-| 4 |  [colabcode](https://github.com/abhishekkrthakur/colabcode) | Run VSCode (codeserver) on Google Colab or Kaggle Notebooks | abhishekkrthakur | 534 |
+| 4 |  [colabcode](https://github.com/abhishekkrthakur/colabcode) | Run VSCode (codeserver) on Google Colab or Kaggle Notebooks | abhishekkrthakur | 535 |
 | 5 |  [ml-workspace](https://github.com/DAGsHub/ml-workspace) | 🛠 All-in-one web-based IDE specialized for machine learning and data science. | DAGsHub | 12 |
 
 **[⬆ Back to Index](#-contents)**
@@ -940,14 +940,14 @@
 | 6 |  [awesome-cms](https://github.com/postlight/awesome-cms) | 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal. | postlight | 2262 |
 | 7 |  [clmystery](https://github.com/veltman/clmystery) | A command-line murder mystery | veltman | 4001 |
 | 8 |  [awesome-editorjs](https://github.com/editor-js/awesome-editorjs) | 🤩 A curated list of awesome Editor.js tools, libraries and resources. | editor-js | 98 |
-| 9 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 38120 |
+| 9 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 38119 |
 | 10 |  [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) | :city_sunrise: A collection of links for free stock photography, video and Illustration websites | neutraltone | 9299 |
 | 11 |  [awesome-pwa](https://github.com/hemanth/awesome-pwa) | Awesome list of progressive web apps! (PR welcomed ;)) | hemanth | 3340 |
 | 12 |  [awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) | A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment. | Kazhnuz | 433 |
 | 13 |  [awesome-browser-extensions-and-apps](https://github.com/vitalets/awesome-browser-extensions-and-apps) | :zap:A curated list of awesome resources for building browser extensions and apps | vitalets | 91 |
 | 14 |  [awesome-linux-apps](https://github.com/103cuong/awesome-linux-apps) | 🚀 A list of awesome applications for 🐧 Linux distributions. | 103cuong | 53 |
 | 15 |  [bash-guide](https://github.com/Idnan/bash-guide) | A guide to learn bash | Idnan | 9774 |
-| 16 |  [awesome-shell](https://github.com/alebcay/awesome-shell) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. | alebcay | 20045 |
+| 16 |  [awesome-shell](https://github.com/alebcay/awesome-shell) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. | alebcay | 20046 |
 | 17 |  [awesome-electron](https://github.com/sindresorhus/awesome-electron) | Useful resources for creating apps with Electron | sindresorhus | 20351 |
 | 18 |  [Apollo-11](https://github.com/DaveChild/Apollo-11) | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. | DaveChild | 1 |
 | 19 |  [awesome-compilers](https://github.com/aalhour/awesome-compilers) | :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes | aalhour | 5378 |
@@ -956,7 +956,7 @@
 | 22 |  [heroku-vscode](https://github.com/ivang7/heroku-vscode) |  | ivang7 | 4 |
 | 23 |  [awesome-hosting](https://github.com/dalisoft/awesome-hosting) | List of awesome hosting | dalisoft | 22 |
 | 24 |  [statically](https://github.com/staticallyio/statically) | The free optimization &amp; CDN for images, CSS, JavaScript, and open source | staticallyio | 227 |
-| 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 80420 |
+| 25 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 80419 |
 | 26 |  [useful-web-pages](https://github.com/MikhailMasny/useful-web-pages) | 📚 A set of useful links for a web developer, including links to topics such as Git, HTML, CSS, JavaScript, various extensions for VS, VS Code, Chrome, Back-end, and Front-end Frameworks and etc. | MikhailMasny | 19 |
 | 27 |  [okteto-theia](https://github.com/ralphilius/okteto-theia) | Theia IDE on Okteto | ralphilius | 1 |
 | 28 |  [theia-web](https://github.com/edoardo849/theia-web) | A pre-built, ready to go version of the Theia IDE for browser use | edoardo849 | 1 |
@@ -970,7 +970,7 @@
 | 36 |  [awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) | Standalone features to be integrated into web applications | componently-com | 26 |
 | 37 |  [awesome-cloud](https://github.com/JStumpp/awesome-cloud) | A curated list of delightful cloud services. | JStumpp | 81 |
 | 38 |  [gitnote](https://github.com/zhaopengme/gitnote) | A modern note taking app based on GIT that does not require a local GIT environment. | zhaopengme | 1465 |
-| 39 |  [awesome-d3](https://github.com/wbkd/awesome-d3) | A list of D3 libraries, plugins and utilities | wbkd | 4472 |
+| 39 |  [awesome-d3](https://github.com/wbkd/awesome-d3) | A list of D3 libraries, plugins and utilities | wbkd | 4473 |
 | 40 |  [awesome-online-ide](https://github.com/styfle/awesome-online-ide) | 🌩️ A list of awesome online development environments | styfle | 2066 |
 | 41 |  [vscode-remote-release](https://github.com/microsoft/vscode-remote-release) | Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#39;s full feature set. | microsoft | 1629 |
 | 42 |  [spec](https://github.com/uprtcl/spec) | The entry point for the _Prtcl specification and documentation | uprtcl | 89 |
@@ -984,7 +984,7 @@
 | 50 |  [git_cheat_sheet](https://github.com/pixelbrackets/git_cheat_sheet) | Git Cheat Sheet 📄💻 | pixelbrackets | 17 |
 | 51 |  [Frontend-Cheat-Sheets](https://github.com/logeshpaul/Frontend-Cheat-Sheets) | Collection of cheat sheets(HTML, CSS, JS, Git, Gulp, etc.,) for your frontend development needs &amp; reference | logeshpaul | 578 |
 | 52 |  [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. | tiimgreen | 30727 |
-| 53 |  [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more | bradtraversy | 19859 |
+| 53 |  [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more | bradtraversy | 19860 |
 | 54 |  [how-to-preview-ghosts-drafts-in-gatsbyjs](https://github.com/fedetibaldo/how-to-preview-ghosts-drafts-in-gatsbyjs) | Bootstrap the project, implement the preview page, and get ready for production. You can read the full tutorial on my website. | fedetibaldo | 1 |
 | 55 |  [EasyWebsite](https://github.com/UniverseFly/EasyWebsite) | Automatically build your personal website on GitHub Pages using markdown files, leveraging GitHub Actions!! (Supports latex) | UniverseFly | 4 |
 | 56 |  [awesome-parcel](https://github.com/parcel-bundler/awesome-parcel) | 🔗 A curated list of awesome Parcel resources, libraries, tools and boilerplates | parcel-bundler | 1244 |
@@ -992,11 +992,11 @@
 | 58 |  [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) | A series of exquisite and compact web page cool effects | lindelof | 417 |
 | 59 |  [awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) | A series of beautiful and practical landing page templates | nordicgiant2 | 267 |
 | 60 |  [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) | Style your readme using CSS with this simple trick | sindresorhus | 1340 |
-| 61 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 141179 |
+| 61 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 141185 |
 | 62 |  [awesome-quill](https://github.com/quilljs/awesome-quill) | A curated list of awesome things related to Quill | quilljs | 560 |
 | 63 |  [Affinity-Assets](https://github.com/avant5/Affinity-Assets) | Tools to compliment Affinity Designer, Affinity Photo and Affinity Publisher software | avant5 | 2 |
 | 64 |  [Font-Awesome-Affinity-Assets](https://github.com/B4rt0/Font-Awesome-Affinity-Assets) | Font Awesome Free as Affinity assets file for Affinity Designer/Photo/Publisher | B4rt0 | 4 |
-| 65 |  [inkscape](https://github.com/inkscape/inkscape) | Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌 | inkscape | 765 |
+| 65 |  [inkscape](https://github.com/inkscape/inkscape) | Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌 | inkscape | 766 |
 | 66 |  [playcode](https://github.com/playcode/playcode) | Online Javascript Editor | playcode | 91 |
 | 67 |  [one-click-netlify-ThoughtTank](https://github.com/Thought-Tank/one-click-netlify-ThoughtTank) | Hugo template with Netlify CMS | Thought-Tank | 1 |
 | 68 |  [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | Manually curated collection of resources for frontend web developers. | dypsilon | 27636 |
@@ -1006,12 +1006,12 @@
 | 72 |  [awesome-docker](https://github.com/veggiemonk/awesome-docker) | :whale: A curated list of Docker resources and projects | veggiemonk | 18515 |
 | 73 |  [awesome-free-startup-resources](https://github.com/jasonnoahchoi/awesome-free-startup-resources) | Inspired by /u/fluffhead1 on Reddit. Many thanks for the start of such an awesome list. | jasonnoahchoi | 127 |
 | 74 |  [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) | Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc] | vaeyo | 89 |
-| 75 |  [pikvm](https://github.com/pikvm/pikvm) | Open and cheap DIY IP-KVM based on Raspberry Pi | pikvm | 1148 |
+| 75 |  [pikvm](https://github.com/pikvm/pikvm) | Open and cheap DIY IP-KVM based on Raspberry Pi | pikvm | 1150 |
 | 76 |  [24-7-repl.it](https://github.com/MinerLinsMC/24-7-repl.it) | Can&#39;t afford a VPS? Host anything on REPL.it for free, with minimum downtime! | MinerLinsMC | 1 |
 | 77 |  [Repl-it-Desktop-App](https://github.com/FadedLearns/Repl-it-Desktop-App) | Repl.it Desktop app is a app created to allow editing of your repls from a app instead from the website. We are planning to make this app free and easy to use. If you know what repl.it is and want to help! Email 2026oyeenid@share.wilsonsd.org. | FadedLearns | 1 |
 | 78 |  [awesome-webservers](https://github.com/imgarylai/awesome-webservers) | ⚙️ Collection of one-liner static server | imgarylai | 47 |
 | 79 |  [rmarkdown-website-template](https://github.com/privefl/rmarkdown-website-template) | Template for creating your website with R markdown. | privefl | 29 |
-| 80 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 82848 |
+| 80 |  [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) | danistefanovic | 82850 |
 | 81 |  [unlimited-tethering](https://github.com/RiFi2k/unlimited-tethering) | Bypass tethering caps or throttling on cell phone unlimited data plans. Potentially cancel your internet and route your whole home though your unlimited data plan. | RiFi2k | 26 |
 | 82 |  [F-Droid-Repos](https://github.com/CHEF-KOCH/F-Droid-Repos) | Lists all F-Droid repos. | CHEF-KOCH | 13 |
 | 83 |  [awesome-websites](https://github.com/StanForever/awesome-websites) | A curated list of awesome websites | StanForever | 31 |
@@ -1087,12 +1087,12 @@
 | 6 |  [vscode-binder](https://github.com/betatim/vscode-binder) | VS Code on Binder | betatim | 72 |
 | 7 |  [jupyterhub](https://github.com/jupyterhub/jupyterhub) | Multi-user server for Jupyter notebooks | jupyterhub | 5830 |
 | 8 |  [binderhub](https://github.com/jupyterhub/binderhub) | Run your code in the cloud, with technology so advanced, it feels like magic! | jupyterhub | 1687 |
-| 9 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 86894 |
+| 9 |  [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources | vinta | 86896 |
 | 10 |  [marker](https://github.com/pindexis/marker) | The terminal command palette | pindexis | 1744 |
 | 11 |  [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) | A code-completion engine for Vim | ycm-core | 21837 |
 | 12 |  [spreadsheetfs](https://github.com/GunshipPenguin/spreadsheetfs) | Use Google Sheets as a Filesystem to get Unlimited Free Cloud Storage | GunshipPenguin | 129 |
 | 13 |  [http-prompt](https://github.com/httpie/http-prompt) | An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/clihttp | httpie | 7919 |
-| 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 96596 |
+| 14 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 96598 |
 | 15 |  [rich](https://github.com/willmcgugan/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. | willmcgugan | 12535 |
 | 16 |  [suplemon](https://github.com/richrd/suplemon) | :lemon: Console (CLI) text editor with multi cursor support. Suplemon replicates Sublime Text like functionality in the terminal. Try it out, give feedback, fork it! | richrd | 722 |
 | 17 |  [theiapod](https://github.com/magland/theiapod) | Self-host gitpod-style workspaces for github repositories using theia | magland | 9 |
@@ -1128,7 +1128,7 @@
 | 47 |  [awesomesauce](https://github.com/botonomi/awesomesauce) | What&#39;s New at Free-For-Dev | botonomi | 1 |
 | 48 |  [feedcourt](https://github.com/bendybendy/feedcourt) | clone of the old popurls wall-of-text rss aggregator | bendybendy | 4 |
 | 49 |  [telegram-export](https://github.com/expectocode/telegram-export) | Export Telegram chat data and history | expectocode | 357 |
-| 50 |  [localstack](https://github.com/localstack/localstack) | 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! | localstack | 26483 |
+| 50 |  [localstack](https://github.com/localstack/localstack) | 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! | localstack | 26486 |
 | 51 |  [drivedl](https://github.com/architdate/drivedl) | Download files from Google Drive (inclusive of teamdrives, shared with me and my drive) concurrently. | architdate | 43 |
 | 52 |  [httpie](https://github.com/httpie/httpie) | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. https://twitter.com/clihttp | httpie | 48120 |
 | 53 |  [MyServer](https://github.com/rajkumardusad/MyServer) | MyServer is your own localhost web server. you can setup PHP, Apache, Nginx and MySQL servers on your android devices or linux like Ubuntu etc. MyServer is Developed for android terminal like Termux or GNURoot Debian terminal. | rajkumardusad | 109 |
@@ -1150,13 +1150,13 @@
 | 69 |  [InfiniDrive](https://github.com/DavidBerdik/InfiniDrive) | A project that leverages Google Drive&#39;s API and &#34;0 size file&#34; rules for native Docs for unlimited storage space. - A SteelHacks 2019 Project | DavidBerdik | 54 |
 | 70 |  [Spotify-Account-Creator](https://github.com/zoony1337/Spotify-Account-Creator) | Creates Spotify accounts for you. | zoony1337 | 18 |
 | 71 |  [Edu-Account-creator](https://github.com/KevinLage/Edu-Account-creator) |  | KevinLage | 172 |
-| 72 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 55552 |
+| 72 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 55553 |
 | 73 |  [warpplus-cloudflare](https://github.com/pcodejs/warpplus-cloudflare) | Script for Unlimited GB usage on WARP VPN (1.1.1.1 Cloudflare) | pcodejs | 2 |
 | 74 |  [HardcoreUserbot](https://github.com/Hack12R/HardcoreUserbot) | Best telegram userbot to manage your telegram account .... | Hack12R | 28 |
 | 75 |  [sparkasse-backup-decrypt](https://github.com/nikeee/sparkasse-backup-decrypt) | CLI tool to extract and decrypt the SQLite database of a backup ZIP of the Sparkasse Android application | nikeee | 3 |
 | 76 |  [gdrive-appdata](https://github.com/nelenkov/gdrive-appdata) | Fetch Android appdata/ from Google Drive | nelenkov | 41 |
 | 77 |  [HackerNewsAPI](https://github.com/karan/HackerNewsAPI) | :newspaper: Unofficial Python API for Hacker News. RESTful API at https://github.com/karan/HNify | karan | 367 |
-| 78 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 70966 |
+| 78 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 70968 |
 | 79 |  [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) | IPFS and libp2p on Mobile, with Gomobile | ipfs-shipyard | 71 |
 | 80 |  [apps](https://github.com/0install/apps) | 0install feeds/packages for common apps and libraries | 0install | 2 |
 | 81 |  [gphotos-sync](https://github.com/gilesknap/gphotos-sync) | Google Photos and Albums backup with Google Photos Library API | gilesknap | 639 |
@@ -1179,7 +1179,7 @@
 | 1 |  [tty](https://github.com/piotrmurach/tty) | Toolkit for developing sleek command line apps. | piotrmurach | 2185 |
 | 2 |  [tty-table](https://github.com/piotrmurach/tty-table) | A flexible and intuitive table generator | piotrmurach | 137 |
 | 3 |  [gist](https://github.com/defunkt/gist) | Potentially the best command line gister. | defunkt | 3517 |
-| 4 |  [devdocs](https://github.com/freeCodeCamp/devdocs) | API Documentation Browser | freeCodeCamp | 23879 |
+| 4 |  [devdocs](https://github.com/freeCodeCamp/devdocs) | API Documentation Browser | freeCodeCamp | 23878 |
 | 5 |  [menu_commander](https://github.com/DannyBen/menu_commander) | Create menus for any command line tool using simple YAML configuration | DannyBen | 2 |
 | 6 |  [letsencrypt-heroku](https://github.com/substrakt/letsencrypt-heroku) | Make any Heroku application secure in just a couple of minutes. | substrakt | 534 |
 | 7 |  [jekyll-strapi](https://github.com/strapi/jekyll-strapi) | Jekyll plugin to retrieve content from any Strapi API. | strapi | 31 |
@@ -1284,7 +1284,7 @@
 | 42 |  [netlimy](https://github.com/siavash9000/netlimy) | modern website self-hosting with continuous deployment out of the box. only docker needed. | siavash9000 | 5 |
 | 43 |  [docker](https://github.com/andyschott/docker) | Configuration for hosting all of my websites | andyschott | 1 |
 | 44 |  [nginx-multi-host-docker](https://github.com/matthiasnoback/nginx-multi-host-docker) | Docker Compose setup for multi-hostname Let&#39;s Encrypt-secured websites. | matthiasnoback | 9 |
-| 45 |  [vscodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | VSCodium | 10728 |
+| 45 |  [vscodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing | VSCodium | 10729 |
 | 46 |  [compose-remotestorage](https://github.com/libresh/compose-remotestorage) | Remote Storage application for IndieHosters network | libresh | 9 |
 | 47 |  [block](https://github.com/EnergizedProtection/block) | Let&#39;s make an annoyance free, better open internet, altogether! | EnergizedProtection | 1218 |
 | 48 |  [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) | A one-click script that installs a remote desktop environment on a Linux server with browser/VNC access. | Har-Kuun | 255 |
@@ -1371,7 +1371,7 @@
 | 29 |  [BoostNote.next](https://github.com/BoostIO/BoostNote.next) | An intuitive and stylish markdown note app for the developers. | BoostIO | 1794 |
 | 30 |  [cheatsheets](https://github.com/JiangWeixian/cheatsheets) | a cheatsheets app based on github | JiangWeixian | 19 |
 | 31 |  [Github-Explorer](https://github.com/niudai/Github-Explorer) | Github Explorer made millions of github repos accessible right in vscode. | niudai | 105 |
-| 32 |  [theia](https://github.com/eclipse-theia/theia) | Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript. | eclipse-theia | 11777 |
+| 32 |  [theia](https://github.com/eclipse-theia/theia) | Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript. | eclipse-theia | 11778 |
 | 33 |  [journal](https://github.com/mpkelly/journal) | Embeddable Wiki available as Chrome extension, PWA  or  React component. | mpkelly | 2 |
 | 34 |  [gridstack.js](https://github.com/gridstack/gridstack.js) | Build interactive dashboards in minutes. | gridstack | 3423 |
 | 35 |  [steeditor](https://github.com/jakipatryk/steeditor) | An advanced editor, not only for advanced users! | jakipatryk | 7 |
@@ -1402,9 +1402,9 @@
 | 60 |  [ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) | :octocat: GitHub Action to deploy to GitHub Pages | crazy-max | 119 |
 | 61 |  [remirror](https://github.com/remirror/remirror) | Your fave, multi-framework ProseMirror toolkit 🎉 | remirror | 727 |
 | 62 |  [editor.js](https://github.com/codex-team/editor.js) | A block-styled editor with clean JSON output | codex-team | 13254 |
-| 63 |  [refined-github](https://github.com/sindresorhus/refined-github) | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | sindresorhus | 12563 |
+| 63 |  [refined-github](https://github.com/sindresorhus/refined-github) | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | sindresorhus | 12564 |
 | 64 |  [core](https://github.com/HaikuTeam/core) | :rice: Interactive UI animation engine for the Web.  Core renderer for Haiku Animator. | HaikuTeam | 725 |
-| 65 |  [foam](https://github.com/foambubble/foam) | A personal knowledge management and sharing system for VSCode | foambubble | 6962 |
+| 65 |  [foam](https://github.com/foambubble/foam) | A personal knowledge management and sharing system for VSCode | foambubble | 6963 |
 | 66 |  [notion-blog](https://github.com/ijjk/notion-blog) | A Next.js site using new SSG support with a Notion backed blog | ijjk | 1254 |
 | 67 |  [NotionPlus](https://github.com/mayneyao/NotionPlus) | Programming in Notion.so | mayneyao | 111 |
 | 68 |  [react-notion](https://github.com/splitbee/react-notion) | A fast React renderer for Notion pages | splitbee | 991 |
@@ -1425,8 +1425,8 @@
 | 83 |  [ribbon](https://github.com/KeziahMoselle/ribbon) | Manage your Reddit saved posts with reminders and pinned bookmarks. | KeziahMoselle | 8 |
 | 84 |  [gaia](https://github.com/blockstack/gaia) | A decentralized high-performance storage system | blockstack | 631 |
 | 85 |  [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) | Hacker News clone rewritten with universal JavaScript, using React and GraphQL. | clintonwoo | 4004 |
-| 86 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 35118 |
-| 87 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 103473 |
+| 86 |  [code-server](https://github.com/cdr/code-server) | VS Code in the browser | cdr | 35119 |
+| 87 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 103475 |
 | 88 |  [create-react-native-app](https://github.com/expo/create-react-native-app) | Create React Native apps that run on iOS, Android, and web | expo | 12303 |
 | 89 |  [website](https://github.com/gitpod-io/website) | Gitpod website and documentation | gitpod-io | 49 |
 | 90 |  [gitpod](https://github.com/gitpod-io/gitpod) | Gitpod is an open-source Kubernetes application providing prebuilt, collaborative development environments in your browser - powered by VS Code. | gitpod-io | 2438 |
