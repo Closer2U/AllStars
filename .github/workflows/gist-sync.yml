@@ -1,0 +1,16 @@
+on: [push]
+
+jobs:
+  gist-sync:
+    name: gist-sync
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - uses: popsiclestick/gist-sync-action@v1.1.0
+        id: sync
+        with:
+          auth: ${{ secrets.GIST_TOKEN }}
+          gist_url: https://gist.github.com/Closer2U/1066d4ec50996b5a49fb7a18f844657c#file-stargazed-synced-md
+          gist_title: Stargazed-synced.md
+          github_file: README.md
