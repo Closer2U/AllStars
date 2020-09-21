@@ -25,6 +25,3 @@ jobs:
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
         run: 'stargazed --username  "Closer2U" --token ${GITHUB_TOKEN} --repo "AllStars" --message "stargazed update by GitHub Actions Workflow" --sort'
--
-  name: 'gist-sync'
-  uses: Popsiclestick/gist-sync-action@v1.1
